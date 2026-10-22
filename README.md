@@ -1,8 +1,19 @@
 # Preparación JC — Junior Cycle Spanish
 
-Proyecto de investigación y planificación pedagógica para preparar al alumnado de **3rd Year** para el examen final de **Junior Cycle Spanish** en Irlanda.
+Proyecto de investigación, planificación y recursos para preparar al alumnado de **3rd Year** para el examen final de **Junior Cycle Spanish** en Irlanda.
 
-> **Estado:** investigación y diseño pedagógico preliminar. **No existe una web en desarrollo.** Este repositorio es exclusivamente documental.
+> **Estado:** Work 01–04 aprobados. Work 05 incorpora una primera web funcional en una rama para revisión; no fusionada ni publicada externamente todavía.
+
+## Plataforma JC — primera versión
+
+- Código estático en [web/](web/), con seis áreas y tres modos de idioma.
+- [Arquitectura y ejecución](docs/work05-plataforma/arquitectura.md).
+- [Inventario implementado y pendiente](docs/work05-plataforma/inventario.md).
+- [Pruebas y límites](docs/work05-plataforma/pruebas-y-limites.md).
+- [Siguiente iteración y publicación](docs/work05-plataforma/pendientes.md).
+- Para revisar sin servidor: `node scripts/export-preview.cjs` genera un HTML autónomo en `artifacts/`.
+
+La implementación está autorizada expresamente por Work 05. No se modifica OL ni se publica infraestructura nueva. La fusión y un destino de alojamiento adicional requieren aprobación expresa.
 
 ## Objetivos
 - Analizar exámenes oficiales y criterios de corrección de la SEC, con referencia curricular NCCA.
@@ -28,4 +39,4 @@ Proyecto de investigación y planificación pedagógica para preparar al alumnad
 - [Matriz completa](docs/investigacion/Matriz_completa_Preparacion_JC.xlsx)
 - [JC Writing Toolkit — informe de diseño](docs/investigacion/JC_Writing_Toolkit_Informe_diseno.docx)
 
-Pendiente: validación auditiva directa de los MP3 oficiales y revisión del examen 2026.
+Examen y marking scheme 2026: validación documental incorporada en Work 03. Pendiente: validación auditiva directa de los MP3 oficiales/OL, pilotaje y comprobaciones de dispositivos según alcance. Los documentos históricos conservan el estado de su propia fase.
