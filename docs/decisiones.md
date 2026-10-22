@@ -11,4 +11,4 @@
 - Reading y Listening OL: evaluar material fuente y preguntas por separado.
 - No modificar proyectos existentes ni empezar desarrollo técnico.
 
-**Pendiente:** aprobación del documento pedagógico v0.1 y carga/verificación de los tres documentos originales de Work.
+**Aprobado:** criterios pedagógicos v1.0 por el profesor el 22-10-2026. **Pendiente:** carga/verificación de los tres documentos originales de Work.
