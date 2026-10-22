@@ -2,11 +2,12 @@
 
 Proyecto de investigación, planificación y recursos para preparar al alumnado de **3rd Year** para el examen final de **Junior Cycle Spanish** en Irlanda.
 
-> **Estado:** Work 01–04 aprobados. Work 05 incorpora una primera web funcional en una rama para revisión; no fusionada ni publicada externamente todavía.
+> **Estado:** Work 01–05 incorporados a main; Work 05 mediante PR #4. Work 06 amplía Grammar y Vocabulary en una rama para revisión, sin fusionar.
 
 ## Plataforma JC — primera versión
 
 - Código estático en [web/](web/), con seis áreas y tres modos de idioma.
+- [Work 06: cobertura anterior/nueva, inventario y pruebas](docs/work06-grammar-vocabulary/README.md).
 - [Arquitectura y ejecución](docs/work05-plataforma/arquitectura.md).
 - [Inventario implementado y pendiente](docs/work05-plataforma/inventario.md).
 - [Pruebas y límites](docs/work05-plataforma/pruebas-y-limites.md).

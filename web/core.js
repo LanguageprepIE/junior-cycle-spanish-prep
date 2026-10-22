@@ -1,7 +1,7 @@
 /* Small shared logic. No services, telemetry or evaluation of free writing. */
 (function(root){
 'use strict';
-const normalise=v=>String(v??'').normalize('NFC').trim().toLocaleLowerCase('es').replace(/[.!?]+$/u,'').replace(/\s+/gu,' ');
+const normalise=v=>String(v??'').normalize('NFC').trim().toLocaleLowerCase('es').replace(/^[¿¡]+/u,'').replace(/[.!?]+$/u,'').replace(/\s+/gu,' ');
 // Preserve ñ. Strip acute accents/diaeresis for spelling feedback only, not an exact pass.
 const accentFold=v=>normalise(v).normalize('NFD').replace(/[\u0301\u0308]/gu,'').normalize('NFC');
 function check(value,answer,alternatives=[],allowArticle=false){
