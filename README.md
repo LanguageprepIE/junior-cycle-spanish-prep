@@ -23,4 +23,9 @@ Proyecto de investigación y planificación pedagógica para preparar al alumnad
 4. Priorizar la comunicación natural y la progresión de dificultad.
 5. No crear web, despliegues, ni modificar otros repositorios sin permiso.
 
-**Documentos originales de Work:** pendientes de incorporar como archivos binarios y contrastar exhaustivamente con este resumen documental.
+**Documentos originales de Work incorporados:**
+- [Informe de auditoría 2022–2025](docs/investigacion/Informe_auditoria_Preparacion_JC.docx)
+- [Matriz completa](docs/investigacion/Matriz_completa_Preparacion_JC.xlsx)
+- [JC Writing Toolkit — informe de diseño](docs/investigacion/JC_Writing_Toolkit_Informe_diseno.docx)
+
+Pendiente: validación auditiva directa de los MP3 oficiales y revisión del examen 2026.
