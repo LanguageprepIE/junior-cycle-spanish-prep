@@ -1,0 +1,26 @@
+{
+  "snapshot_ol": "d45e23a31c4a63145503389570071933d62556cb",
+  "fecha": "2026-10-22",
+  "recursos": 128,
+  "categorias": {
+    "Listening": 25,
+    "Reading": 20,
+    "Vocabulary actividad": 40,
+    "Vocabulary banco": 8,
+    "Writing": 14,
+    "Sentence Builder": 8,
+    "Grammar": 9,
+    "Otros": 4
+  },
+  "dictamenes": {
+    "Pendiente": 26,
+    "A": 62,
+    "B": 16,
+    "C": 24
+  },
+  "listening_preguntas": 131,
+  "reading_preguntas": 132,
+  "vocabulario_original": 221,
+  "vocabulario_practica": 223,
+  "alcance": "Documental completo; validación sonora y navegador pendientes"
+}
