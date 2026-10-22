@@ -1,6 +1,6 @@
-# Criterios pedagógicos y estrategia de preparación — borrador v0.1
+# Criterios pedagógicos y estrategia de preparación — versión 1.0
 
-**Proyecto:** Preparación JC · **Fecha:** 22 de octubre de 2026 · **Estado:** BORRADOR, pendiente de revisión y aprobación docente.
+**Proyecto:** Preparación JC · **Fecha:** 22 de octubre de 2026 · **Estado:** APROBADO por el profesor el 22 de octubre de 2026. Versión 1.0.
 
 ## 1. Finalidad
 Preparar al alumnado de 3rd Year para el examen final de Junior Cycle Spanish en Irlanda, combinando mejora de la competencia comunicativa con familiaridad con las exigencias reales del examen. Los recursos deben ser accesibles sin reducir artificialmente el nivel de exigencia.
@@ -66,4 +66,4 @@ Para Writing se prevé diseñar actividades nuevas específicas de JC; pueden ap
 Ofrecer apoyo lingüístico en inglés cuando facilite el aprendizaje, modelos claros, progresión de dificultad, retroalimentación útil y práctica autónoma. Utilizar español natural, preferentemente peninsular. Distinguir siempre entre práctica guiada y simulación oficial.
 
 ## 11. Límites y siguientes pasos
-Este documento recoge **decisiones pedagógicas**, no sustituye la especificación NCCA ni los marking schemes SEC. Antes de aprobarlo, contrastar con los tres documentos de Work y cerrar las comprobaciones pendientes. Después, auditar recurso a recurso la plataforma OL. **No está autorizado todavía ningún desarrollo web.**
+Este documento recoge **decisiones pedagógicas**, no sustituye la especificación NCCA ni los marking schemes SEC. Mantener abiertas las comprobaciones documentales pendientes y contrastar con los tres documentos originales de Work cuando estén incorporados. Después, auditar recurso a recurso la plataforma OL. **No está autorizado todavía ningún desarrollo web.**
