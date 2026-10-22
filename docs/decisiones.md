@@ -24,3 +24,15 @@
 - La nueva interfaz, actividades originales y ajustes implementados en Work 05 se entregan para revisión; no se convierten en decisiones pedagógicas aprobadas por haber pasado pruebas técnicas.
 - La escucha de audios OL/oficiales permanece pendiente. Las ocho audiciones son candidatas, no actividades sonoras validadas.
 - No se creó alojamiento adicional: una publicación que requiera servicio/configuración nuevos o repositorio fuente adicional queda para decisión expresa. Se prepara una exportación autónoma reproducible y se documentan las pruebas reales de Chrome y sus límites.
+
+## Work 06 — ampliación autorizada
+
+- El profesor confirma Work 05 aprobado y PR #4 fusionado; main observado en `c0fe594d5e1a1b8da7f073e1f1efe973e869c302`.
+- Se autoriza ampliar Grammar y Vocabulary en rama, conservando navegación, seis áreas y quince bloques. La finalidad es preparación intensiva con cobertura suficiente, no una unidad introductoria por tema.
+- Se conservan reconocimiento amplio y producción funcional selectiva; las listas nuevas son selecciones pedagógicas para revisión, no un temario oficial cerrado.
+- Los ejercicios previos útiles se mantienen. No se modifican contenidos de Reading, Listening, Writing o Study Guide ni repositorios externos.
+- Se prepara PR y vista previa; no se autoriza fusionar. La vista privada Sites ya existente fue autorizada expresamente tras Work 05 y se reutiliza, sin crear otro repositorio.
+- Matrices, pruebas y pendientes de esta ampliación: `docs/work06-grammar-vocabulary/`. Safari/iPad, pilotaje y validación sonora siguen pendientes; no se declara completada cada temática por el recuento de actividades.
+- El encargo ampliado concreta talleres explícitos de soler, perfecto compuesto, imperfecto receptivo, futuro simple receptivo y estar + gerundio. La producción de formas más complejas se mantiene selectiva u opcional.
+- La búsqueda delimitada de formas de soler en cuadernillos/criterios 2022–2026 no confirma recurrencia literal. Se incorpora por instrucción docente y utilidad para expresar hábitos, sin convertir esa utilidad en frecuencia oficial verificada.
+- Se añaden los estados Suficiente para el objetivo definido / Parcial / Insuficiente / Ausente con justificación. La suficiencia de una práctica escrita acotada no certifica dominio global ni valida sonido.
