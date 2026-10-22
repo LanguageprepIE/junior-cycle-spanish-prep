@@ -7,7 +7,7 @@
 - `JC_Writing_Toolkit_Informe_diseno.docx`
 - `Matriz_completa_Preparacion_JC.xlsx`
 
-Los originales todavía no se han incorporado a este repositorio. No deben confundirse estos apuntes con una reproducción completa de sus datos.
+**Los tres originales ya están incorporados a `docs/investigacion/` y se ha comprobado su presencia en GitHub.** Este documento sigue siendo un resumen, no una reproducción de toda la matriz.
 
 ## Alcance registrado en la auditoría previa
 - Exámenes y marking schemes 2022–2025.
@@ -16,7 +16,7 @@ Los originales todavía no se han incorporado a este repositorio. No deben confu
 - Patrones de Writing Q17 y Q18, con excepciones por año.
 
 ## Pendiente de validación
-- Incorporar los tres archivos originales y verificar integridad.
+- Los tres originales están incorporados y accesibles en GitHub; queda pendiente una comparación binaria exhaustiva con los adjuntos iniciales.
 - Registrar enlaces concretos a exámenes, marking schemes y especificación NCCA en una bibliografía comprobada.
 - Escuchar y contrastar directamente las grabaciones; la comprobación técnica de MP3 no equivale a validación de contenido.
 - Revisar cualquier novedad curricular o de formato antes de aplicarla.
