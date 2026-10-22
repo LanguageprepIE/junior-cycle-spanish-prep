@@ -11,7 +11,7 @@ Proyecto de investigación y planificación pedagógica para preparar al alumnad
 - Diseñar posteriormente recursos accesibles, rigurosos y motivadores; cualquier desarrollo técnico requerirá autorización expresa.
 
 ## Documentación
-- [Criterios pedagógicos — borrador v0.1](docs/criterios-pedagogicos/criterios-v0.1.md)
+- [Criterios pedagógicos — versión 1.0 aprobada](docs/criterios-pedagogicos/criterios-v0.1.md)
 - [Estado de la investigación y fuentes pendientes](docs/investigacion/estado-investigacion.md)
 - [Plan de auditoría de recursos OL](docs/auditoria-ol/plan-auditoria.md)
 - [Registro de decisiones](docs/decisiones.md)
