@@ -1,14 +1,14 @@
 'use strict';
 const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/strict');
 const C=require('../web/core.js'),root=__dirname+'/../web/',ctx={};vm.createContext(ctx);
-for(const f of ['data.js','activities.js','training-data.js','grammar-training.js','grammar-recognition.js','mixed-training.js','training-language.js'])vm.runInContext(fs.readFileSync(root+f,'utf8'),ctx);
+for(const f of ['data.js','activities.js','training-data.js','grammar-training.js','grammar-recognition.js','grammar-extension.js','vocabulary-extension.js','mixed-training.js','training-language.js'])vm.runInContext(fs.readFileSync(root+f,'utf8'),ctx);
 const X=ctx.JC_TRAINING,D=ctx.JC_DATA;
-assert.equal(X.grammar.length,15);assert.equal(new Set(X.grammar.map(g=>g.id)).size,15);
+assert.equal(X.grammar.length,20);assert.equal(new Set(X.grammar.map(g=>g.id)).size,20);
 assert.equal(Object.keys(X.vocabulary).length,15);
 let lexical=0,grammar=0;
-for(const th of D.themes){const v=X.vocabulary[th.id];assert(v);lexical+=v.words.length;assert(v.words.some(w=>w.tier==='extended'));assert(v.words.some(w=>w.tier==='core'));for(const w of v.words){assert(w.es&&w.en&&w.example);assert(['core','extended'].includes(w.tier));}assert.equal(v.gaps.length,5);assert.equal(v.qs.length,4);for(const q of v.qs)assert(v.text.includes(q[2]),th.id+': '+q[2]);assert(v.use.length===2&&v.model);}
+for(const th of D.themes){const v=X.vocabulary[th.id];assert(v);lexical+=v.words.length;assert(v.words.some(w=>w.tier==='extended'));assert(v.words.some(w=>w.tier==='core'));for(const w of v.words){assert(w.es&&w.en&&w.example);assert(['core','extended'].includes(w.tier));assert(w.reception.includes('understand'));assert(w.production);assert(w.kind);}assert(v.gaps.length>=5);assert.equal(v.qs.length,4);for(const q of v.qs)assert(v.text.includes(q[2]),th.id+': '+q[2]);if(v.extra)for(const q of v.extra.qs)assert(v.extra.text.includes(q[2]));assert(v.use.length===2&&v.model);}
 for(const g of X.grammar){assert.deepEqual(Array.from(g.sets,s=>s.id),['recognise','practice','transform']);assert(g.explain.length===2&&g.models.length>=2);for(const s of g.sets){grammar+=s.items.length;for(const it of s.items){assert(it[0]&&it[1]&&it[2]);assert.equal(C.check(it[1],it[1],it[3]).state,'correct');for(const alt of it[3])assert.equal(C.check(alt,it[1],it[3]).state,'correct');assert.equal(C.check('',it[1],it[3]).state,'empty');}}}
-assert.equal(lexical,472);assert.equal(Object.values(X.vocabulary).reduce((n,v)=>n+v.authoredCount,0),350);assert.equal(grammar,255);
+assert.equal(lexical,499);assert.equal(Object.values(X.vocabulary).reduce((n,v)=>n+v.authoredCount,0),376);assert.equal(grammar,357);
 assert.equal(X.mixed.length,3);assert.equal(X.mixed.reduce((n,m)=>n+m.items.length,0),24);for(const m of X.mixed)for(let i=0;i<m.items.length;i++){assert(m.text.includes('('+(i+1)+')'));const it=m.items[i];assert.equal(C.check(it[1],it[1],it[3]||[]).state,'correct');}
 // Meaningful error pairs: person, stem, time, agreement and idiomatic construction.
 for(const [good,bad]of [['estudiamos','estudian'],['vivís','vivimos'],['hacéis','hacen'],['puedo','podo'],['queremos','quieremos'],['se viste','se vesto'],['nos acostamos','nos acuestamos'],['hay','están'],['tengo','soy'],['gustan','gusta'],['duelen','duele'],['blancas','blancos'],['visitó','visito'],['hecho','hacido'],['fui','voy'],['habrá','había'],['muchas','muy'],['para','porque']]){
@@ -35,4 +35,11 @@ for(const g of X.grammar)for(const set of g.sets){S.steps['gtraining:'+g.id]=set
 S.steps['vtraining:T04']='recognise';ui.vocabulary('T04');assert.equal(lastItems.length,8);assert(lastItems.every(it=>it[4].includes(it[1])));
 for(const id of Object.keys(X.vocabulary))for(const step of ['learn','guided','independent','use']){S.steps['vtraining:'+id]=step;assert(ui.vocabulary(id));}
 assert(ui.mixed());
-console.log('PASS Work06: 15 lexical banks /472 combined entries (350 authored +122 inherited), 75 gaps, 60 evidence-backed questions; 15 grammar areas /255 new items +24 mixed text gaps; renderer contracts, reflexive alternatives, person/stem/tense/agreement discrimination; original data unchanged.');
+const cases=[['soler','practice','suelo','sueles'],['perfect','practice','hemos','han'],['imperfect','practice','vivía','viví'],['future-simple','practice','habrá','habrán'],['progressive','practice','jugando','juegando']];
+for(const [id,set,good,bad]of cases){const item=X.grammar.find(g=>g.id===id).sets.find(s=>s.id===set).items.find(it=>it[1]===good);assert(item,id+' requires '+good);assert.equal(C.check(good,item[1],item[3]).state,'correct');assert.notEqual(C.check(bad,item[1],item[3]).state,'correct');}
+assert(X.grammar.find(g=>g.id==='perfect').explain[0].includes('varía'));assert(X.grammar.find(g=>g.id==='progressive').explain[0].includes('No traduzcas todo'));
+for(const v of Object.values(X.vocabulary)){for(const id of v.grammar)assert(X.grammar.some(g=>g.id===id));for(const item of v.gaps){assert.equal(C.check(item[1],item[1],item[3]||[]).state,'correct');for(const alt of item[3]||[])assert.equal(C.check(alt,item[1],item[3]).state,'correct');}}
+const soler=X.grammar.find(g=>g.id==='soler').sets[2].items.find(it=>it[1]==='Solemos ir a pie');assert.equal(C.check('Nosotros solemos ir a pie',soler[1],soler[3]).state,'correct');
+assert.equal(Object.values(X.vocabulary).reduce((n,v)=>n+v.gaps.length,0),90);
+assert.equal(Object.values(X.vocabulary).reduce((n,v)=>n+v.qs.length+(v.extra?.qs.length||0),0),64);
+console.log('PASS Work06 expanded brief: 20 grammar areas /357 items +24 mixed gaps; 15 lexical banks /499 entries, 90 gaps, 64 evidence-backed questions; production/reception metadata, tense/person/meaning distinctions, UI contracts and preserved baseline.');

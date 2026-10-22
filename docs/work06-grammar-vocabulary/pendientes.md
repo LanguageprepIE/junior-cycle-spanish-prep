@@ -11,8 +11,8 @@ Esta entrega amplía ambas áreas de forma funcional. No declara cerrados los qu
 | P1 | Más práctica de decenas/centenas/fechas/telefonía y condiciones comerciales | T09 amplía 0–31, unidades y horas; aún no reúne todas las combinaciones. T08 presenta rebaja/precio anterior/actual; faltan más descuentos en contextos nuevos, sin convertirlos en examen de aritmética |
 | P1 | Más textos mixtos y edición de textos breves | Hay tres textos de ocho huecos; se necesitan otras combinaciones y revisión de errores dentro de un párrafo, según dificultades observadas |
 | P1 | Safari e iPad reales; teclado virtual y lectores de pantalla | Chrome con tamaños simulados y controles nativos no equivale a estos dispositivos o tecnologías |
-| P2 | Pasado reflexivo, otros irregulares/futuros receptivos y pronombres más complejos | Incorporarlos por función y demanda, sin imponer paradigmas exhaustivos de producción |
-| P2 | Reserva léxica y más diversidad de géneros/personas | Los catorce grupos de reserva no se integran automáticamente. Mantener vocabulario complementario, revisar variantes y no inflar listas |
+| P2 | Pasado reflexivo, nuevas ocasiones para irregulares/futuros receptivos y pronombres más complejos | Incorporarlos por función y demanda, sin imponer paradigmas exhaustivos de producción |
+| P2 | Reserva léxica y más diversidad de géneros/personas | Los catorce grupos de reserva no se integran automáticamente. Los talleres explícitos de perfecto, imperfecto, futuro simple, gerundio y soler ya están incorporados. Mantener vocabulario complementario, revisar variantes y no inflar listas |
 | Antes de una simulación anual nueva | Confirmar condiciones administrativas de la promoción | No extrapolar los detalles de 2026 a 2027 ni atribuir carácter oficial a estos ejercicios |
 
 Orden sugerido: revisión docente de presente/irregulares y T04/T08/T09; pilotar recuperación y transferencia; ajustar variantes y apoyos; después priorizar asociación visual y práctica sonora validada, junto con nuevas ocasiones independientes. No se necesita esperar a completar cada banco para trabajar comprensión o escritura.

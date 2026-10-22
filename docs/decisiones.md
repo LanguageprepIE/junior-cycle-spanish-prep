@@ -33,3 +33,6 @@
 - Los ejercicios previos útiles se mantienen. No se modifican contenidos de Reading, Listening, Writing o Study Guide ni repositorios externos.
 - Se prepara PR y vista previa; no se autoriza fusionar. La vista privada Sites ya existente fue autorizada expresamente tras Work 05 y se reutiliza, sin crear otro repositorio.
 - Matrices, pruebas y pendientes de esta ampliación: `docs/work06-grammar-vocabulary/`. Safari/iPad, pilotaje y validación sonora siguen pendientes; no se declara completada cada temática por el recuento de actividades.
+- El encargo ampliado concreta talleres explícitos de soler, perfecto compuesto, imperfecto receptivo, futuro simple receptivo y estar + gerundio. La producción de formas más complejas se mantiene selectiva u opcional.
+- La búsqueda delimitada de formas de soler en cuadernillos/criterios 2022–2026 no confirma recurrencia literal. Se incorpora por instrucción docente y utilidad para expresar hábitos, sin convertir esa utilidad en frecuencia oficial verificada.
+- Se añaden los estados Suficiente para el objetivo definido / Parcial / Insuficiente / Ausente con justificación. La suficiencia de una práctica escrita acotada no certifica dominio global ni valida sonido.
