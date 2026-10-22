@@ -1,0 +1,37 @@
+{
+  "fecha": "2026-10-22",
+  "documentos": [
+    {
+      "archivo_recibido": "JC012CLP000EV.pdf",
+      "tipo": "cuadernillo",
+      "procedencia": "Adjunto aportado por el profesor; no descarga directa SEC en esta sesión",
+      "bytes": 2073466,
+      "sha256": "54f7dfc06616b6b0c648fb5726c58ace86ea1bfd901e2ab7e2a075542fe5000a",
+      "paginas_pdf": 24,
+      "lectura_integra": true
+    },
+    {
+      "archivo_recibido": "JC012CLP000EV 2.pdf",
+      "tipo": "marking_scheme",
+      "procedencia": "Adjunto aportado por el profesor; no descarga directa SEC en esta sesión",
+      "bytes": 435861,
+      "sha256": "6884c69c64300ce2b380fa5f7ee5bc5a2f0b8343f40c84a22031755b409b1b56",
+      "paginas_pdf": 20,
+      "lectura_integra": true
+    },
+    {
+      "archivo_recibido": "JC012CLP017EV.mp3",
+      "tipo": "audio_recibido_como_oficial",
+      "procedencia": "Adjunto aportado por el profesor; no descarga directa SEC en esta sesión",
+      "bytes": 56705685,
+      "sha256": "61a5eba5145a9c9fa99b018d22439f34c88a8e17672a5a7d879b13b0d7e5ba34",
+      "duracion_tecnica_segundos": 1772.052656,
+      "frecuencia_hz": 44100,
+      "canales": 2,
+      "decodificacion_completa": "ffmpeg finalizó con código 0 sin errores notificados",
+      "escucha_directa": false,
+      "cotejo_auditivo_con_guion": "pendiente",
+      "identidad_con_copia_remota_SEC": "no cotejada"
+    }
+  ]
+}

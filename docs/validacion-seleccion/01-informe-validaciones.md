@@ -6,7 +6,7 @@
 
 Se ha recuperado la documentación aprobada en main y contrastado su identidad con las copias de consulta. OL sigue en la revisión examinada por Work 02. Se conserva su inventario de 128 unidades y no se repite la auditoría.
 
-Se cierran dos comprobaciones concretas: la referencia curricular para actuales 3rd Years y el contraste del núcleo factual del texto de Tesla mediante crónica Reuters republicada. Permanecen abiertos la escucha de los 25 MP3 OL, la comparación íntegra del examen/criterios SEC 2026 y las pruebas de navegador ya pendientes. No se han cerrado esos puntos con transcripciones, metadatos o catálogos.
+Se cierran la referencia curricular para actuales 3rd Years, el contraste del núcleo factual de Tesla mediante Reuters republicado y, tras los adjuntos del profesor, la lectura íntegra del cuadernillo y marking scheme de 2026. Se ha leído también el guion oficial incluido en este último. Permanecen abiertas la escucha directa de los 25 MP3 OL y del MP3 2026, las disposiciones administrativas para 2027 y las pruebas de navegador heredadas. No se cierran comprobaciones auditivas con guiones o metadatos.
 
 ## Estado de Listening por archivo
 
@@ -68,7 +68,11 @@ La página de Tesla devolvió información limitada y el enlace de livestream ya
 
 ## Investigación oficial de 2026
 
-Cerrado: calendario de especificaciones NCCA y lectura de los ajustes administrativos de 2026 [F01–F04]. Pendiente: cuadernillo, marking scheme y MP3 SEC 2026 completos y verificables [F05–F09]. La comparación 2022–2026 documenta expresamente esa frontera; no concluye que el examen haya cambiado o permanezca igual.
+Cerrado: calendario NCCA y ajustes administrativos 2026 [F01–F04]; identificación y lectura íntegra del cuadernillo de 24 páginas y marking scheme de 20 páginas aportados por el profesor [F11–F12]. Sus portadas identifican SEC, Junior Cycle 2026, Spanish Common Level; el examen lleva 2026J012C1EL / 2026.S20. Se contrastaron los 18 enunciados con sus soluciones, las instrucciones generales, las bandas y límites de Writing y el guion de Listening (criterios pp. 14–16). Se revisaron visualmente, además, Q9/Q10 y todas las páginas de Writing y sus rúbricas. Esta vía resuelve el acceso documental que F05–F09 no permitían, sin afirmar una descarga directa desde SEC.
+
+El MP3 recibido [F13] tiene duración técnica 1772,052656 segundos (29:32,05), 44,1 kHz y dos canales. Su decodificación completa terminó sin errores notificados. **No se ha escuchado ni se ha verificado auditivamente su correspondencia con el guion, voces, ritmo o pronunciación.** La identificación del adjunto y su procedencia declarada no equivalen a cotejar su señal con una copia descargada de SEC.
+
+La estructura 140/140/80 y Q16–Q18 continúa. Varían el reparto lector, el tema/género situado en cada número y las demandas temporales concretas. El [anexo 2026](05-anexo-examen-2026.md) registra cada pregunta y la [comparación](02-comparacion-examenes-2022-2026.md) sus consecuencias. No se modifica ningún criterio aprobado.
 
 ## Verificaciones técnicas y de navegador
 
@@ -88,7 +92,8 @@ No se ha modificado OL, su constructor de frases ni otros proyectos. No se ha in
 ## Criterio para cerrar cada pendiente
 
 - Escucha: cada uno de los 25 archivos completos, responsable/fecha, incidencias localizadas y dictamen de audio separado de las preguntas. Si no se percibe la señal, permanece pendiente.
-- Examen 2026: documento SEC identificable, completo y legible; revisar enunciados y criterios juntos. Un índice o una transcripción automática no basta.
+- Examen y criterios 2026: cerrado documentalmente por F11–F12. MP3 oficial: cerrar por separado la escucha directa completa y el cotejo con el guion; no convertir la decodificación realizada en una escucha.
+- Convocatoria 2027: consultar disposiciones administrativas aplicables; no trasladar automáticamente los ajustes de 2026.
 - Navegador: registrar navegador/dispositivo y acciones efectivas; una prueba estructural no valida audio audible o experiencia de uso.
 - Tesla: resolver atribución y fuente para cerrar el texto completo; los hechos ya contrastados no se vuelven a marcar como desconocidos.
 

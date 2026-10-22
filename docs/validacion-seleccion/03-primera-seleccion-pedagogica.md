@@ -42,6 +42,14 @@ Se reservan para después el teatro, invento, redistribución de alimentos y Can
 
 El equilibrio se consigue dentro de cada fuente y entre fuentes, no haciendo que todo alumnado comience por turismo sostenible. En las fuentes exigentes siguen existiendo datos accesibles. Las variantes guiada e independiente del mismo texto no se contabilizan como lecturas nuevas.
 
+### Contraste de la selección con 2026
+
+La propuesta conserva los ocho textos y ocho audiciones candidatos: no es necesario sustituirlos por materiales que repitan los temas exactos del último examen. Nadal facilita acceso a datos biográficos presentes también en Q14 (Lamine Yamal); cultura y turismo permiten transferencia hacia Q11 (San Fermín) y Q15 (Panamá). Esto es afinidad funcional, no equivalencia de dificultad o formato. El texto OL de San Fermín `R-new-8`, `pages/reading/guided-new-8.html`, queda como reserva temática pertinente; compartir fiesta no lo convierte en el cartel oficial ni valida sus preguntas.
+
+Listening 2026 refuerza la prioridad documental de tiempo, transporte, compras/comida y experiencias personales (Q4–Q8). Q1–Q3 son selección entre opciones y Q4–Q8 requieren respuesta en inglés; conservar una actividad guiada OL como A no la convierte en simulación. La escucha pendiente impide dar por cerrada su adecuación sonora.
+
+Q9 de 2026 confirma prioridad de prendas/accesorios junto a colores; Q6 y Q14 confirman alimentos/ingredientes. En Reading hay que respetar la lengua indicada: Q11 pide respuestas en español; Q12–Q15 en inglés; Q9/Q10 asociaciones numéricas. No debe rehacerse todo el banco suponiendo una única lengua de respuesta. La precisión contextual importa: en Q14 «cerca» no equivale a «justo al lado»; Q15 diferencia playas, parques y lugares con sus respectivos adjetivos (criterios pp. 9 y 3).
+
 ### Géneros que esta selección no cubre
 
 Faltan carteles, horarios, menús, mensajes reales de intercambio, diálogos y artículos con párrafos numerados y consignas localizadas. Las Fallas/Feria/Carnaval son textos culturales de prosa; no sustituyen un cartel por compartir tema. También falta emparejamiento visual de léxico y acciones y una práctica más sistemática de vocabulario en contexto. Estas carencias deben abordarse en una futura fase de autoría.
@@ -71,7 +79,7 @@ Ampliaciones de mayor rendimiento: ropa y tallas; alimentos, bebidas e ingredien
 
 ## Secuencia de aprendizaje de Writing
 
-Se propone una progresión de seis pasos, flexible y sin redactar ahora consignas, modelos ni ejercicios nuevos. Q16, Q17 y Q18 se entienden conforme al corpus verificado 2022–2025; su formato exacto en 2026 sigue pendiente.
+Se propone una progresión de seis pasos, flexible y sin redactar ahora consignas, modelos ni ejercicios nuevos. Q16, Q17 y Q18 se entienden conforme al corpus verificado 2022–2026. En 2026, Q16 vuelve al banco de diez palabras; Q17 es correo con cinco consignas; Q18 pide ocho temas personales y unas 200 palabras. El formulario de 2024 y el blog de 2024 siguen justificando variedad de preparación.
 
 | Paso | Objetivo y vínculo con examen | Apoyos existentes aprovechables | Evidencia de aprendizaje prevista |
 |---|---|---|---|
@@ -82,7 +90,7 @@ Se propone una progresión de seis pasos, flexible y sin redactar ahora consigna
 | 5 | Integrar ocho temas personales de Q18 con presente, pasado y planes cuando los pide la consigna | Repertorio funcional previo y banco adaptable; necesita tareas JC nuevas | Cubre ocho demandas con ampliación pertinente y referentes temporales coherentes; no reconstruye un diálogo |
 | 6 | Transferencia y revisión con retirada de ayudas | Evidencia, autocotejo y revisión selectiva | Responde a una situación no memorizada y corrige un objetivo de contenido/lengua |
 
-En todos los pasos: reconocer más formas que las exigidas para producir; dar razones para gustos y opiniones; revisar contenido y expresión por separado; no imponer tres frases por punto ni todos los tiempos en cada respuesta. La indicación de unas 200 palabras se conserva como dato de determinadas tareas de 2024–2025, no como regla universal ni penalización inventada.
+En todos los pasos: reconocer más formas que las exigidas para producir; dar razones para gustos y opiniones; revisar contenido y expresión por separado; no imponer tres frases por punto ni todos los tiempos en cada respuesta. La indicación de unas 200 palabras está documentada en Q18 de 2024–2026; no aparece como extensión de Q17 en 2026 y no autoriza a inventar una penalización por recuento. Q17 de 2026 pide descripciones, rutina y qué gustaría visitar el próximo fin de semana, sin consigna explícita de pasado; Q18 sí pide el verano pasado y próximas vacaciones. Los tiempos se eligen según la demanda, sin imponer pasado a todos los correos ni tres tiempos a cada punto.
 
 Se excluye el futuro reflexivo generado del taller original hasta corregirlo en un alcance autorizado. SER/GUSTAR requieren control contextual; no se enseñará ser/estar mediante permanente/temporal. Los 25 irregulares opcionales siguen siendo referencia/ampliación, no requisito general.
 

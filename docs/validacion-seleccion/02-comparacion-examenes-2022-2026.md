@@ -1,64 +1,56 @@
 # Comparación documental de Junior Cycle Spanish de 2022 a 2026
 
-22 de octubre de 2026 · Work 03 · Estado de 2026 parcialmente verificable
+22 de octubre de 2026 · Work 03 · Actualizada con los adjuntos del profesor
 
-## Conclusión que permiten las fuentes
+## Alcance y conclusión
 
-**No se ha cerrado la comparación del contenido del examen y del marking scheme de 2026.** Se localizaron portales que enlazan o presentan sus materiales, pero no se obtuvo el cuadernillo completo ni los criterios íntegros en una forma legible y verificable. No se atribuyen a 2026 los patrones de 2022–2025 ni se afirma que no haya novedades.
+La lectura íntegra del examen y marking scheme 2026 ya está cerrada [F11–F12]. Sustituye el estado inicial de acceso limitado de Work 03. Se han leído los enunciados, textos, opciones, soluciones, reglas generales, Writing y guion oficial. El MP3 está recibido y decodificado, **sin escucha directa** [F13]. Por ello se comparan contenidos y formatos documentados, sin atribuir velocidad, acento o inteligibilidad a la grabación.
 
-Sí se ha confirmado el marco curricular aplicable y se ha consultado documentación oficial de ajustes de 2026. Este cierre parcial permite continuar una selección pedagógica reversible con la base aprobada, sin fijar todavía una simulación de examen o una rúbrica 2026/2027.
+Continúan las tres secciones, sus 18 preguntas y 140/140/80 puntos. Las variaciones verificadas afectan al reparto interno de Reading, ubicación de géneros, temas y demandas temporales de Writing; no justifican presentar 2026 como un cambio global de modelo. Tampoco garantizan el formato de 2027. Los criterios aprobados v1.0 permanecen intactos.
 
 ## Comparación por convocatoria
 
-La información de 2022–2025 procede de la investigación ya aprobada, no de una nueva auditoría de esos cuadernillos. Las referencias y páginas están en los originales de `docs/investigacion/`. En la tabla, L/R/W identifica Listening, Reading y Writing.
+2022–2025 procede de la investigación aprobada y su matriz; no se han vuelto a auditar esos cuadernillos. 2026 procede de los documentos íntegros recibidos. El [anexo 2026](05-anexo-examen-2026.md) da páginas y detalle por pregunta.
 
 | Aspecto | 2022 | 2023 | 2024 | 2025 | 2026 |
 |---|---|---|---|---|---|
-| Estructura documentada | L1–8; R9–15; W16–18 | Igual distribución | Igual distribución | Igual distribución | No contrastada en cuadernillo completo; un catálogo secundario anuncia esa distribución |
-| Puntos del cuadernillo | 140 L + 140 R + 80 W = 360 | Igual | Igual | Igual | Catálogo secundario anuncia 360 y 140/140/80; no adoptado como verificación SEC |
-| Listening | Datos personales, compras, tiempo, direcciones, noticia y viaje escolar | Instituto, ropa, citas, direcciones, ofertas y turismo | Compras, familia, ciudad, tren, tiempo, comida y alojamiento | Planes, familia, aeropuerto, salud, ofertas, tiempo y restauración | Contenido y soluciones oficiales sin verificar |
-| Reproducciones de Listening | Tres; pausa anunciada en segunda pasada de Q8 | Igual | Igual | Igual | No verificado; no trasladar automáticamente instrucciones anteriores |
-| Acceso lector Q9/Q10 | Asociación léxica y acciones ilustradas | Asociación de profesiones/lugares y acciones | Ocio/actividades y acciones | Casa/objetos y acciones | No verificado |
-| Otros géneros lectores | Cartel, biografía, mensajes y textos turísticos | Anuncios, biografía, relato y guía de ciudad | Cartel, perfil, diálogo y artículos | Cartel, diálogo, perfil y artículos culturales | No verificado |
-| Q16 | Cinco expresiones en banco | Cinco expresiones en banco | Formulario a partir de ficha | Diez palabras en banco | No verificado |
-| Q17 | Correo desde Valencia | Correo desde Barcelona | Blog sobre el colegio | Correo desde Sevilla | Género, situación, consignas y valoración sin verificar |
-| Q18 | Ocho temas personales, incluida rutina, planes y fin de semana pasado | Ocho temas, con cumpleaños, visita y verano pasado | Ocho temas, con Navidad pasada y planes; unas 200 palabras | Ocho temas, con entorno, normas, plan conjunto y Pascua pasada; unas 200 palabras | Número y tipo de temas, tiempos y extensión sin verificar |
-| Corrección de Writing | Contenido y expresión separados | Igual principio | Variaciones en bandas y límites de expresión | Contenido y expresión separados | Bandas y límites sin verificar |
+| Estructura | L1–8; R9–15; W16–18 | Igual | Igual | Igual | Igual; dos horas |
+| Puntos | 140 L + 140 R + 80 W = 360 | Igual | Igual | Igual | Igual |
+| Listening | Datos personales, compras, tiempo, direcciones, noticia, viaje escolar | Instituto, ropa, citas, direcciones, ofertas, turismo | Compras, familia, ciudad, tren, tiempo, comida, alojamiento | Planes, familia, aeropuerto, salud, ofertas, tiempo, restauración | Exámenes/deporte, cine, campamento, tiempo, metro, ofertas, estancia en Irlanda, Córdoba |
+| Reproducciones indicadas | Tres; pausa anunciada en segunda pasada Q8 | Igual | Igual | Igual | Tres; pausa en segunda pasada Q8 (cuadernillo pp. 2 y 8); ejecución sonora pendiente |
+| Q9/Q10 | Asociación léxica y acciones ilustradas | Profesiones/lugares y acciones | Ocio/actividades y acciones | Casa/objetos y acciones | Nueve prendas/accesorios sin ejemplo resuelto (9 puntos) y seis acciones (12); 21 en total, antes 20 |
+| Otros géneros lectores | Cartel, biografía, mensajes, turismo | Anuncios, biografía, relato, guía | Cartel, perfil, diálogo, artículos | Cartel, diálogo, perfil, artículos culturales | Cartel San Fermín Q11; perfil comercial ALE-HOP Q12; diálogo adopción Q13; biografía Lamine Yamal Q14; turismo Panamá Q15 |
+| Q16 | Cinco expresiones en banco | Cinco expresiones en banco | Formulario desde ficha | Diez palabras en banco | Diez palabras en banco, diez huecos, 10 puntos; continúa 2025 |
+| Q17 | Correo Valencia | Correo Barcelona | Blog colegio | Correo Sevilla | Correo Huelva; cinco contenidos; descripción, rutina y qué gustaría visitar el próximo fin de semana; sin consigna explícita de pasado |
+| Q18 | Ocho temas personales, rutina, planes y fin de semana pasado | Ocho temas, cumpleaños, visita, verano pasado | Ocho temas, Navidad pasada y planes; unas 200 palabras | Ocho temas, entorno, normas, plan conjunto y Pascua pasada; unas 200 palabras | Ocho temas: colegio, amigo/a, barrio, ocio, tiempo, fin de semana típico, verano pasado y próximas vacaciones; unas 200 palabras |
+| Corrección Writing | Contenido/expresión separados | Igual principio | Variaciones en bandas y límites de expresión | Contenido/expresión separados | 10 + (10 contenido/20 expresión) + (16 contenido/24 expresión); bandas y topes 2026 documentados en anexo |
 
-Las diferencias entre 2022–2025 ya muestran por qué no conviene diseñar alrededor de un único género, una ciudad fija o una rúbrica anual tratada como universal. Que el tema coincida no hace equivalentes las preguntas de dos convocatorias.
+## Variaciones confirmadas y consecuencias propuestas
 
-## Documentación oficial nueva que sí se ha podido consultar
+**Reading temprano.** Q9 vale nueve puntos, con las nueve asociaciones evaluadas, sin ejemplo resuelto; Q10 conserva doce. Son 21/140 puntos lectores (15 %), frente a 20/140 (14,3 %) de 2022–2025. No se debe mantener «20 puntos» como constante de todo el corpus. Esto favorece priorizar prendas/accesorios y acciones, sin convertir un punto adicional en una reorientación general.
 
-**Marco curricular.** Curriculum Online confirma que la especificación MFL 2017 se extingue con la promoción que termina en 2028. La revisión 2025 se introduce en 1st Year en septiembre de 2026. Por tanto, los actuales 3rd Years de 2026–2027 siguen dentro de la especificación 2017 [F01–F03]. Este hecho confirma la referencia previa; no obliga a sustituir los criterios pedagógicos aprobados.
+**Géneros y números de pregunta.** Q12 no es una biografía de persona: presenta ALE-HOP. La biografía de Lamine Yamal se sitúa en Q14, con párrafos numerados y referencias localizadas. Hay que preparar funciones lectoras y géneros variados, sin asociar mecánicamente un número de pregunta con una biografía. Un texto cultural OL no sustituye al cartel San Fermín por hablar de una fiesta.
 
-**Ajustes de 2026.** El documento del Department of Education and Youth, consultado en alojamiento Oide, establece en su página PDF 99 que Spanish no realiza la Assessment Task en 2026 y que el examen escrito no tiene ajuste. La página PDF 4 explica que la calificación de los sujetos afectados se basa en el examen [F04]. Esto describe los ajustes administrativos; **no demuestra que las preguntas sean idénticas a 2025 ni permite reconstruir las bandas de corrección**.
+**Lengua de respuesta y precisión.** Q1–Q3 son selección entre opciones españolas; Q4–Q8 piden inglés. En Reading, Q9/Q10 se resuelven con números, Q11 exige español y Q12–Q15 inglés. La regla general de corrección sobre lengua incorrecta está en el marking scheme pp. 3–4; no debe simplificarse a «todas las respuestas lectoras en inglés». Los ejemplos Q14(e), «justo al lado» frente a «cerca», y Q15(b), adjetivos ligados al sustantivo correcto, refuerzan vocabulario en contexto y relaciones precisas. Los calificadores también importan en L4 y L8; no basta extraer siempre un sustantivo aislado.
 
-No se aplican automáticamente esos ajustes a 2027. Se localizó una circular sobre el curso 2026–2027, pero su contenido íntegro no pudo consultarse y queda pendiente [F08]. Tampoco se deduce una nueva distribución porcentual de la calificación a partir del 35 % original de la especificación y los 140 puntos de los cuadernillos: son referencias con denominadores y disposiciones anuales diferentes.
+**Q16.** Continúa el formato de 2025; contiene colocaciones, léxico cotidiano y selección de formas por persona/tiempo. Se requiere precisión ortográfica para puntuación plena, con las adaptaciones concedidas aplicables. No equivale a exigir producción libre de paradigmas completos. El formulario de 2024 sigue dentro del repertorio que conviene preparar.
 
-## Qué se localizó de 2026 y qué no se debe inferir
+**Q17/Q18.** Cuatro convocatorias del corpus usan correo Q17; 2024 usa blog. En 2026, Q17 no pide un episodio pasado; Q18 sí pide verano pasado y próximas vacaciones. La consecuencia propuesta es adaptar el repertorio a cada consigna, incluyendo la fórmula funcional «me gustaría», sin imponer tres tiempos por respuesta o pasado obligatorio en todo correo. Q18 sigue siendo ocho temas personales, nunca reconstrucción de diálogo. Las aproximadamente 200 palabras figuran en Q18 de 2026, no en Q17.
 
-- SEC: el archivo directo respondió con bloqueo de acceso [F05].
-- ExamAI: página accesible que presenta enlaces a examen, marking scheme y audio SEC. Los destinos no se pudieron leer íntegramente; localizar el enlace no valida el archivo [F06].
-- Exams.ie: catálogo con secciones, puntuaciones y referencias a imágenes de preguntas y criterios. No se obtuvo una lectura verificable del contenido de esas imágenes ni los PDF completos. Sus transcripciones automáticas y tiempos recomendados no se toman como guion ni instrucciones oficiales [F07].
-- Educateplus: la página consultada ofrecía criterios hasta 2025, no una copia identificada de los de 2026 [F09].
-- Se excluyó un PDF de 2026 explícitamente identificado como **Pre-Junior Cycle Final Examination**: es un simulacro, no el examen SEC [F10].
+**Valoración.** Se mantienen contenido y expresión separados y el desarrollo pertinente de cada punto. El anexo registra las bandas y límites 2026 con sus páginas; no se presenta una rúbrica anual como universal. La nota oficial del marking scheme p. 2 recuerda que sus soluciones no son exhaustivas y que los detalles pueden cambiar en futuras convocatorias. No se inventa un número obligatorio de frases ni una penalización por longitud no publicada.
 
-En consecuencia, un indicio del catálogo —por ejemplo, un reparto distinto dentro de Reading— no se incorpora como cambio confirmado. La cifra concreta no debe usarse para rediseñar materiales antes de leer el documento.
+## Marco curricular y disposiciones administrativas
 
-## Consecuencias pedagógicas y propuesta al profesor
+Curriculum Online confirma la extinción de MFL 2017 con la promoción que termina en 2028 y la introducción de la revisión 2025 en 1st Year en septiembre de 2026. Los actuales 3rd Years de 2026–2027 siguen dentro de la especificación 2017 [F01–F03]. Esto confirma la referencia aprobada; no obliga a sustituir los criterios.
 
-Se propone mantener los criterios v1.0: progresión combinada, trabajo contextual, fuente y preguntas por separado, respuesta directa con ampliación pertinente y producción verbal funcional. No se propone ahora un cambio sustancial basado en 2026 porque falta evidencia suficiente.
+El documento de ajustes 2026 del Department of Education and Youth, alojado en Oide, establece en página PDF 99 que Spanish no realiza la Assessment Task en 2026 y que el examen escrito no tiene ajuste; la página PDF 4 explica la base de calificación de los sujetos afectados [F04]. Estas disposiciones administrativas y los puntos del cuadernillo tienen alcance distinto. No se recalcula una ponderación curricular a partir de denominadores diferentes.
 
-La selección de Work 03 queda fundamentada en el corpus 2022–2025 y en objetivos curriculares que sí se han vuelto a consultar: escritura cotidiana, conectores, experiencias presentes/pasadas/futuras y formularios (2017, resultados 1.17–1.22, página PDF 16) [F02]. No se exige producir todos los tiempos que el alumno debe reconocer en comprensión.
+No se trasladan automáticamente los ajustes a 2027: el contenido íntegro de la circular del curso 2026–2027 sigue pendiente [F08]. La nueva disponibilidad del examen 2026 no cierra esa comprobación.
 
-Antes de fijar simulación, rúbrica o cobertura final para 2027 hay que resolver:
+## Estado final y decisiones
 
-1. Identidad, portada, código, nivel y totalidad del cuadernillo SEC 2026.
-2. Todas las consignas, textos, opciones y puntos de las tres secciones; distinguir contenido nuevo de cambio de formato.
-3. Marking scheme completo: soluciones, instrucciones generales, bandas/límites y disposiciones de adaptaciones.
-4. Guion oficial y MP3 de 2026, si están publicados; escucha directa registrada por separado.
-5. Disposiciones administrativas aplicables a 2027.
+Cerrados: identidad y lectura de cuadernillo/criterios 2026, guion publicado, comparación documental e implicaciones anteriores. Pendientes: escucha directa de MP3 2026 y OL; disposiciones para 2027; pilotaje y pruebas de navegador. Los fallos iniciales de acceso F05–F09 se conservan como historial y no como ausencia actual del examen.
 
-Si esa revisión exige cambiar un criterio, se presentará el cambio con evidencia y efecto pedagógico para decisión del profesor. No se modifica ahora ningún criterio aprobado.
+Se propone mantener los criterios v1.0 y el alcance inicial de selección, concretando lenguas de respuesta, precisión contextual y temporalidad de Writing. El profesor debe aprobar la selección, las prioridades y una eventual fase de autoría; este análisis no autoriza actividades nuevas, correcciones de OL o desarrollo web.
 
-Fuentes y estado de acceso: [registro de fuentes](fuentes-y-trazabilidad.md). Investigación precedente: [estado de investigación](../investigacion/estado-investigacion.md), informe y matriz originales en la misma carpeta.
+Fuentes: [registro](fuentes-y-trazabilidad.md). Evidencia por pregunta: [anexo](05-anexo-examen-2026.md). Base precedente: [estado de investigación](../investigacion/estado-investigacion.md) e informe/matriz originales de esa carpeta.
