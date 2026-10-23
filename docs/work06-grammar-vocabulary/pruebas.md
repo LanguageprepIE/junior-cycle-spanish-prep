@@ -43,7 +43,7 @@ Se probaron también en Chrome los ocho huecos de compras (8/8, incluida la alte
 - No se ha probado Safari, un iPad real, el teclado virtual ni un dispositivo táctil físico. Se usan controles nativos, campos etiquetados, foco visible y controles principales con tamaño mínimo existente; eso no equivale a validar accesibilidad completa.
 - No hay auditoría formal con lector de pantalla ni contraste de cada combinación de color. El CSS existente se conserva.
 - No se han contestado manualmente en navegador los 381 ítems nuevos ni las 499 selecciones léxicas. Se combina revisión lingüística, pruebas de todas las claves/opciones y una muestra funcional en navegador.
-- No se han escuchado, regenerado ni sustituido audios. El estado de Listening no cambia.
+- Work 06 no volvió a escuchar, regenerar ni sustituir audios. Según aclaración del profesor de 23-10-2026, los 25 MP3 OL ya habían sido escuchados y aprobados durante su desarrollo; lo pendiente para JC son preguntas, respuestas y comprobación técnica de integración. La auditoría JC no realizó una escucha independiente, y el audio oficial SEC 2026 continúa sin escucha documentada.
 - Las producciones libres se autocotejan; las claves cerradas evalúan lo indicado por el enunciado y no son un sistema exhaustivo de corrección de cualquier paráfrasis.
 - No se ha realizado pilotaje con alumnos. La dificultad y la selección léxica requieren revisión docente y observación de uso.
 - GitHub Pages se conserva con su entrada raíz y rutas relativas; Work 06 se revisa por rama/vista privada hasta autorización de fusión.
