@@ -11,7 +11,7 @@
 - Reading y Listening OL: evaluar material fuente y preguntas por separado.
 - No modificar proyectos existentes ni empezar desarrollo técnico.
 
-**Aprobado:** criterios pedagógicos v1.0 por el profesor el 22-10-2026. **Incorporados:** los tres documentos originales de Work en `docs/investigacion/` (presencia y lectura desde GitHub comprobadas). **Pendiente:** validación sonora y contraste binario exhaustivo.
+**Aprobado:** criterios pedagógicos v1.0 por el profesor el 22-10-2026. **Incorporados:** los tres documentos originales de Work en `docs/investigacion/` (presencia y lectura desde GitHub comprobadas). **Aclaración posterior del profesor (23-10-2026):** los 25 audios OL fueron escuchados y aprobados durante el desarrollo de OL; sigue pendiente la adaptación de las preguntas para JC. La comprobación binaria y la escucha independiente de la auditoría son procesos distintos.
 
 ## Work 05 — autorización de desarrollo y estado de esta rama
 
@@ -22,7 +22,7 @@
 - Idiomas: English / Bilingüe / Español, por defecto Bilingüe; simulaciones con instrucciones e idiomas de respuesta fijos según formato.
 - Desarrollo en rama y PR, sin fusionar. No modificar OL u otros proyectos, crear otro repositorio, generar/sustituir audios ni añadir cuentas/analítica/servicios de datos.
 - La nueva interfaz, actividades originales y ajustes implementados en Work 05 se entregan para revisión; no se convierten en decisiones pedagógicas aprobadas por haber pasado pruebas técnicas.
-- La escucha de audios OL/oficiales permanece pendiente. Las ocho audiciones son candidatas, no actividades sonoras validadas.
+- El profesor confirma que los 25 audios OL ya fueron escuchados y aprobados en el proyecto OL. Las ocho audiciones preseleccionadas para JC siguen pendientes de adaptar y validar sus preguntas y de verificar su integración técnica; no es necesaria una nueva validación sonora general. La escucha independiente de la auditoría JC y la escucha del audio oficial SEC 2026 no se realizaron.
 - No se creó alojamiento adicional: una publicación que requiera servicio/configuración nuevos o repositorio fuente adicional queda para decisión expresa. Se prepara una exportación autónoma reproducible y se documentan las pruebas reales de Chrome y sus límites.
 
 ## Work 06 — ampliación autorizada
@@ -32,7 +32,7 @@
 - Se conservan reconocimiento amplio y producción funcional selectiva; las listas nuevas son selecciones pedagógicas para revisión, no un temario oficial cerrado.
 - Los ejercicios previos útiles se mantienen. No se modifican contenidos de Reading, Listening, Writing o Study Guide ni repositorios externos.
 - Se prepara PR y vista previa; no se autoriza fusionar. La vista privada Sites ya existente fue autorizada expresamente tras Work 05 y se reutiliza, sin crear otro repositorio.
-- Matrices, pruebas y pendientes de esta ampliación: `docs/work06-grammar-vocabulary/`. Safari/iPad, pilotaje y validación sonora siguen pendientes; no se declara completada cada temática por el recuento de actividades.
+- Matrices, pruebas y pendientes de esta ampliación: `docs/work06-grammar-vocabulary/`. Safari/iPad, pilotaje y adaptación de preguntas de Listening a JC siguen pendientes; no se declara completada cada temática por el recuento de actividades.
 - El encargo ampliado concreta talleres explícitos de soler, perfecto compuesto, imperfecto receptivo, futuro simple receptivo y estar + gerundio. La producción de formas más complejas se mantiene selectiva u opcional.
 - La búsqueda delimitada de formas de soler en cuadernillos/criterios 2022–2026 no confirma recurrencia literal. Se incorpora por instrucción docente y utilidad para expresar hábitos, sin convertir esa utilidad en frecuencia oficial verificada.
 - Se añaden los estados Suficiente para el objetivo definido / Parcial / Insuficiente / Ausente con justificación. La suficiencia de una práctica escrita acotada no certifica dominio global ni valida sonido.

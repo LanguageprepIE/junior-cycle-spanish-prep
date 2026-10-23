@@ -4550,7 +4550,7 @@ globalThis.JC_DATA = {
       "path": "pages/listening/everyday-01.html",
       "audio": "assets/audio/LCOL_LISTENING_02_EVERYDAY.mp3",
       "questionVerdict": "A",
-      "status": "pending-audio"
+      "status": "pending-jc-questions"
     },
     {
       "id": "weather-01",
@@ -4559,7 +4559,7 @@ globalThis.JC_DATA = {
       "path": "pages/listening/weather-01.html",
       "audio": "assets/audio/LCOL_LISTENING_01_WEATHER.mp3",
       "questionVerdict": "A",
-      "status": "pending-audio"
+      "status": "pending-jc-questions"
     },
     {
       "id": "everyday-02",
@@ -4568,7 +4568,7 @@ globalThis.JC_DATA = {
       "path": "pages/listening/everyday-02.html",
       "audio": "assets/audio/LCOL_LISTENING_06_EVERYDAY.mp3",
       "questionVerdict": "A",
-      "status": "pending-audio"
+      "status": "pending-jc-questions"
     },
     {
       "id": "culture-02",
@@ -4577,7 +4577,7 @@ globalThis.JC_DATA = {
       "path": "pages/listening/culture-02.html",
       "audio": "assets/audio/LCOL_LISTENING_08_CULTURE.mp3",
       "questionVerdict": "A",
-      "status": "pending-audio"
+      "status": "pending-jc-questions"
     },
     {
       "id": "people-01",
@@ -4586,7 +4586,7 @@ globalThis.JC_DATA = {
       "path": "pages/listening/people-01.html",
       "audio": "assets/audio/LCOL_LISTENING_03_PEOPLE.mp3",
       "questionVerdict": "A",
-      "status": "pending-audio"
+      "status": "pending-jc-questions"
     },
     {
       "id": "news-01",
@@ -4595,7 +4595,7 @@ globalThis.JC_DATA = {
       "path": "pages/listening/news-01.html",
       "audio": "assets/audio/LCOL_LISTENING_05_NEWS.mp3",
       "questionVerdict": "A",
-      "status": "pending-audio"
+      "status": "pending-jc-questions"
     },
     {
       "id": "everyday-03",
@@ -4604,7 +4604,7 @@ globalThis.JC_DATA = {
       "path": "pages/listening/everyday-03.html",
       "audio": "assets/audio/LCOL_LISTENING_11_EVERYDAY.mp3",
       "questionVerdict": "B",
-      "status": "pending-audio"
+      "status": "pending-jc-questions"
     },
     {
       "id": "weather-02",
@@ -4613,7 +4613,7 @@ globalThis.JC_DATA = {
       "path": "pages/listening/weather-02.html",
       "audio": "assets/audio/LCOL_LISTENING_10_WEATHER.mp3",
       "questionVerdict": "A",
-      "status": "pending-audio"
+      "status": "pending-jc-questions"
     }
   ]
 };

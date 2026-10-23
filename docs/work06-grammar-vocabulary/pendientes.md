@@ -6,7 +6,7 @@ Esta entrega amplía ambas áreas de forma funcional. No declara cerrados los qu
 |---|---|---|
 | P1 | Revisión docente de una muestra de cada familia y pilotaje con alumnado | Comprobar naturalidad, carga, ayudas necesarias y transferencia real. La dificultad actual es estimada |
 | P1 | Asociación visual original de ropa, acciones, ciudad y útiles | El corpus exige relacionar léxico/acción con referentes visuales; una glosa inglesa no sustituye esta destreza |
-| P1 | Práctica auditiva de números, fechas, datos, ropa, acciones y relaciones | Los bancos escritos preparan vocabulario; no miden discriminación sonora. La validación de los MP3 OL/oficiales sigue pendiente |
+| P1 | Práctica auditiva de números, fechas, datos, ropa, acciones y relaciones | Los bancos escritos preparan vocabulario; no miden discriminación sonora. Los MP3 OL fueron aprobados previamente por el profesor; falta adaptar preguntas a JC y comprobar su integración. El audio oficial SEC 2026 no fue escuchado en la auditoría |
 | P1 | Más ocasiones independientes para los quince bloques | Cada bloque tiene ahora una fuente nueva y producción; falta repetición espaciada en otras situaciones, no reutilizar siempre la misma fuente |
 | P1 | Más práctica de decenas/centenas/fechas/telefonía y condiciones comerciales | T09 amplía 0–31, unidades y horas; aún no reúne todas las combinaciones. T08 presenta rebaja/precio anterior/actual; faltan más descuentos en contextos nuevos, sin convertirlos en examen de aritmética |
 | P1 | Más textos mixtos y edición de textos breves | Hay tres textos de ocho huecos; se necesitan otras combinaciones y revisión de errores dentro de un párrafo, según dificultades observadas |
