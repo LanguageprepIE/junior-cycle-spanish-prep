@@ -2,11 +2,12 @@
 
 Proyecto de investigación, planificación y recursos para preparar al alumnado de **3rd Year** para el examen final de **Junior Cycle Spanish** en Irlanda.
 
-> **Estado:** Work 01–05 incorporados a main; Work 05 mediante PR #4. Work 06 amplía Grammar y Vocabulary en una rama para revisión, sin fusionar.
+> **Estado:** Work 01–06 y aclaración de audios PR #6 incorporados a main. Work 07 integra 16 actividades de Listening en rama para revisión, sin fusionar.
 
 ## Plataforma JC — primera versión
 
 - Código estático en [web/](web/), con seis áreas y tres modos de idioma.
+- [Work 07: 16 audiciones, 96 preguntas, procedencia y pruebas](docs/work07-listening/README.md).
 - [Work 06: cobertura anterior/nueva, inventario y pruebas](docs/work06-grammar-vocabulary/README.md).
 - [Arquitectura y ejecución](docs/work05-plataforma/arquitectura.md).
 - [Inventario implementado y pendiente](docs/work05-plataforma/inventario.md).
@@ -40,4 +41,4 @@ La implementación está autorizada expresamente por Work 05. No se modifica OL 
 - [Matriz completa](docs/investigacion/Matriz_completa_Preparacion_JC.xlsx)
 - [JC Writing Toolkit — informe de diseño](docs/investigacion/JC_Writing_Toolkit_Informe_diseno.docx)
 
-Examen y marking scheme 2026: validación documental incorporada en Work 03. Pendiente: validación auditiva directa de los MP3 oficiales/OL, pilotaje y comprobaciones de dispositivos según alcance. Los documentos históricos conservan el estado de su propia fase.
+Examen y marking scheme 2026: validación documental incorporada en Work 03. Los MP3 OL ya fueron aprobados sonoramente por el profesor; Work 07 verifica copias, integración y preguntas JC. Pendiente: escucha independiente de los MP3 oficiales, pilotaje y comprobaciones de dispositivos según alcance. Los documentos históricos conservan el estado de su propia fase.

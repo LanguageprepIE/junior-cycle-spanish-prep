@@ -4,6 +4,8 @@ const root=path.resolve(__dirname,'..'),web=path.join(root,'web'),out=path.join(
 let html=fs.readFileSync(path.join(web,'index.html'),'utf8');
 html=html.replace('<link rel="stylesheet" href="styles.css">','<style>'+fs.readFileSync(path.join(web,'styles.css'),'utf8')+'</style>');
 html=html.replace(/<script src="[^"]+" defer><\/script>/g,'');
-const js=['data.js','activities.js','training-data.js','grammar-training.js','grammar-recognition.js','grammar-extension.js','vocabulary-extension.js','mixed-training.js','training-language.js','training-ui.js','core.js','app.js'].map(f=>fs.readFileSync(path.join(web,f),'utf8')).join('\n').replace(/<\/script/gi,'<\\/script');
+const ctx={};require('node:vm').createContext(ctx);require('node:vm').runInContext(fs.readFileSync(path.join(web,'data.js'),'utf8')+fs.readFileSync(path.join(web,'listening-data.js'),'utf8'),ctx);
+const inline=Object.fromEntries(ctx.JC_LISTENING.map(l=>[l.id,'data:audio/mpeg;base64,'+fs.readFileSync(path.join(web,l.audio)).toString('base64')]));
+const js='const LISTENING_INLINE='+JSON.stringify(inline)+';\n'+['data.js','activities.js','training-data.js','grammar-training.js','grammar-recognition.js','grammar-extension.js','vocabulary-extension.js','mixed-training.js','training-language.js','training-ui.js','core.js','listening-data.js','listening-ui.js','app.js'].map(f=>fs.readFileSync(path.join(web,f),'utf8')+(f==='listening-data.js'?'\nJC_LISTENING.forEach(l=>l.audio=LISTENING_INLINE[l.id]);':'')).join('\n').replace(/<\/script/gi,'<\\/script');
 html=html.replace('</body>','<script>'+js+'</script></body>');
-const file=path.join(out,'Preparacion-JC-Work06.html');fs.writeFileSync(file,html);console.log(file);
+const file=path.join(out,'Preparacion-JC-Work07.html');fs.writeFileSync(file,html);console.log(file);

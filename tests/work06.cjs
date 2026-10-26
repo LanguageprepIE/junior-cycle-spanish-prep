@@ -21,11 +21,11 @@ const reflex=X.grammar.find(g=>g.id==='reflexives').sets[2].items.find(it=>it[1]
 assert.equal(C.check('Me voy a levantar temprano',reflex[1],reflex[3]).state,'correct');
 assert(!ctx.JC_TRAINING_PROMPT('Cambia a nosotros: «Vivo en Cork». Frase completa.')[1].includes('Frase completa'));
 for(const f of ['../index.html','index.html']){const html=fs.readFileSync(root+f,'utf8');for(const name of ['training-data.js','grammar-training.js','training-language.js','training-ui.js'])assert(html.includes(name));}
-const baseline=require('node:child_process').execFileSync('git',['show','c0fe594d5e1a1b8da7f073e1f1efe973e869c302:web/data.js'],{cwd:root,encoding:'utf8'});assert.equal(fs.readFileSync(root+'data.js','utf8'),baseline,'OL groups, readings and listening metadata stay unchanged');
+const baseline=require('node:child_process').execFileSync('git',['show','c0fe594d5e1a1b8da7f073e1f1efe973e869c302:web/data.js'],{cwd:root,encoding:'utf8'});const before={};vm.createContext(before);vm.runInContext(baseline,before);const {listening:oldListening,...oldData}=before.JC_DATA;const {listening:newListening,...newData}=D;assert.equal(JSON.stringify(newData),JSON.stringify(oldData),'Non-listening data stays unchanged');
 const baseFile=f=>require('node:child_process').execFileSync('git',['show','c0fe594d5e1a1b8da7f073e1f1efe973e869c302:web/'+f],{cwd:root,encoding:'utf8'});
 assert.equal(fs.readFileSync(root+'activities.js','utf8'),baseFile('activities.js'));
 const oldApp=baseFile('app.js').split('\n'),newApp=fs.readFileSync(root+'app.js','utf8').split('\n');
-for(const name of ['listening','reading','readingDetail','writing','writingDetail','guide'])assert.equal(newApp.find(l=>l.startsWith('function '+name+'(')),oldApp.find(l=>l.startsWith('function '+name+'(')),name+' view must be preserved');
+for(const name of ['reading','readingDetail','writing','writingDetail','guide'])assert.equal(newApp.find(l=>l.startsWith('function '+name+'(')),oldApp.find(l=>l.startsWith('function '+name+'(')),name+' view must be preserved');
 for(const f of ['../index.html','index.html']){const html=fs.readFileSync(root+f,'utf8');const dir=require('node:path').dirname(root+f);for(const [,src]of html.matchAll(/src="([^"]+)"/g))assert(fs.existsSync(require('node:path').resolve(dir,src)),src);}
 // Renderer contract: grammar input rows must not be confused with lexical select options.
 vm.runInContext(fs.readFileSync(root+'training-ui.js','utf8'),ctx);
