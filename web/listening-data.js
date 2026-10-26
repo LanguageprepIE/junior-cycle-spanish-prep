@@ -38,7 +38,50 @@ globalThis.JC_LISTENING = [
           "17 años",
           "18 años"
         ],
-        "correct": 1
+        "correct": 1,
+        "optionsEn": [
+          "16 years old",
+          "17 years old",
+          "18 years old"
+        ]
+      },
+      {
+        "q": [
+          "¿Con qué tres personas vive?",
+          "Which three people does he live with?"
+        ],
+        "answer": [
+          "Sus padres y su hermana pequeña.",
+          "His mother, father and younger sister."
+        ],
+        "evidence": [
+          "Vivo con mis padres y mi hermana pequeña"
+        ],
+        "skill": "details",
+        "hint": [
+          "Conserva también el detalle sobre la hermana.",
+          "Keep the detail about his sister too."
+        ],
+        "level": "middle"
+      },
+      {
+        "q": [
+          "¿A qué hora se levanta entre semana?",
+          "What time does he get up on weekdays?"
+        ],
+        "answer": [
+          "A las 6:45.",
+          "6:45 a.m."
+        ],
+        "evidence": [
+          "me levanto a las siete menos cuarto"
+        ],
+        "skill": "time",
+        "hint": [
+          "Menos cuarto indica un cuarto de hora antes.",
+          "Menos cuarto means a quarter to the hour."
+        ],
+        "level": "middle"
       },
       {
         "q": [
@@ -63,45 +106,12 @@ globalThis.JC_LISTENING = [
           "A pie",
           "En autobús"
         ],
-        "correct": 2
-      },
-      {
-        "q": [
-          "¿A qué hora se levanta entre semana?",
-          "What time does he get up on weekdays?"
-        ],
-        "answer": [
-          "A las 6:45.",
-          "6:45 a.m."
-        ],
-        "evidence": [
-          "me levanto a las siete menos cuarto"
-        ],
-        "skill": "time",
-        "hint": [
-          "Menos cuarto indica un cuarto de hora antes.",
-          "Menos cuarto means a quarter to the hour."
-        ],
-        "level": "middle"
-      },
-      {
-        "q": [
-          "¿Con qué tres personas vive?",
-          "Which three people does he live with?"
-        ],
-        "answer": [
-          "Sus padres y su hermana pequeña.",
-          "His mother, father and younger sister."
-        ],
-        "evidence": [
-          "Vivo con mis padres y mi hermana pequeña"
-        ],
-        "skill": "details",
-        "hint": [
-          "Conserva también el detalle sobre la hermana.",
-          "Keep the detail about his sister too."
-        ],
-        "level": "middle"
+        "correct": 2,
+        "optionsEn": [
+          "By train",
+          "On foot",
+          "By bus"
+        ]
       },
       {
         "q": [
@@ -182,7 +192,31 @@ globalThis.JC_LISTENING = [
           "Lloverá",
           "Habrá niebla"
         ],
-        "correct": 0
+        "correct": 0,
+        "optionsEn": [
+          "Sunny",
+          "Rainy",
+          "Foggy"
+        ]
+      },
+      {
+        "q": [
+          "¿Cuál será la máxima de Madrid el sábado?",
+          "What will Madrid's maximum temperature be on Saturday?"
+        ],
+        "answer": [
+          "18 grados.",
+          "18 degrees."
+        ],
+        "evidence": [
+          "La temperatura máxima será de dieciocho grados"
+        ],
+        "skill": "number",
+        "hint": [
+          "La cifra sigue al pronóstico de Madrid.",
+          "The figure follows the Madrid forecast."
+        ],
+        "level": "middle"
       },
       {
         "q": [
@@ -207,7 +241,12 @@ globalThis.JC_LISTENING = [
           "26 grados",
           "16 grados"
         ],
-        "correct": 1
+        "correct": 1,
+        "optionsEn": [
+          "18 degrees",
+          "26 degrees",
+          "16 degrees"
+        ]
       },
       {
         "q": [
@@ -225,25 +264,6 @@ globalThis.JC_LISTENING = [
         "hint": [
           "Necesitas dos fenómenos, no uno.",
           "You need two weather conditions."
-        ],
-        "level": "middle"
-      },
-      {
-        "q": [
-          "¿Cuál será la máxima de Madrid el sábado?",
-          "What will Madrid's maximum temperature be on Saturday?"
-        ],
-        "answer": [
-          "18 grados.",
-          "18 degrees."
-        ],
-        "evidence": [
-          "La temperatura máxima será de dieciocho grados"
-        ],
-        "skill": "number",
-        "hint": [
-          "La cifra sigue al pronóstico de Madrid.",
-          "The figure follows the Madrid forecast."
         ],
         "level": "middle"
       },
@@ -326,7 +346,12 @@ globalThis.JC_LISTENING = [
           "16 años",
           "22 años"
         ],
-        "correct": 2
+        "correct": 2,
+        "optionsEn": [
+          "20 years old",
+          "16 years old",
+          "22 years old"
+        ]
       },
       {
         "q": [
@@ -351,7 +376,12 @@ globalThis.JC_LISTENING = [
           "En Madrid",
           "En un hotel de Málaga"
         ],
-        "correct": 0
+        "correct": 0,
+        "optionsEn": [
+          "Near the sea",
+          "In Madrid",
+          "In a hotel in Málaga"
+        ]
       },
       {
         "q": [
@@ -470,32 +500,12 @@ globalThis.JC_LISTENING = [
           "En marzo",
           "En enero"
         ],
-        "correct": 1
-      },
-      {
-        "q": [
-          "¿Dónde estará la exposición del instituto?",
-          "Where will the school exhibition be?"
-        ],
-        "answer": [
-          "En la biblioteca.",
-          "In the library."
-        ],
-        "evidence": [
-          "La exposición estará en la biblioteca, no en el comedor"
-        ],
-        "skill": "place",
-        "hint": [
-          "Hay un lugar afirmado y otro descartado.",
-          "One location is confirmed and another ruled out."
-        ],
-        "level": "access",
-        "options": [
-          "En el comedor",
-          "En el patio",
-          "En la biblioteca"
-        ],
-        "correct": 2
+        "correct": 1,
+        "optionsEn": [
+          "In May",
+          "In March",
+          "In January"
+        ]
       },
       {
         "q": [
@@ -553,6 +563,36 @@ globalThis.JC_LISTENING = [
           "Separate last year's activity from this year's."
         ],
         "level": "stretch"
+      },
+      {
+        "q": [
+          "¿Dónde estará la exposición del instituto?",
+          "Where will the school exhibition be?"
+        ],
+        "answer": [
+          "En la biblioteca.",
+          "In the library."
+        ],
+        "evidence": [
+          "La exposición estará en la biblioteca, no en el comedor"
+        ],
+        "skill": "place",
+        "hint": [
+          "Hay un lugar afirmado y otro descartado.",
+          "One location is confirmed and another ruled out."
+        ],
+        "level": "access",
+        "options": [
+          "En el comedor",
+          "En el patio",
+          "En la biblioteca"
+        ],
+        "correct": 2,
+        "optionsEn": [
+          "In the dining hall",
+          "In the playground",
+          "In the library"
+        ]
       },
       {
         "q": [
@@ -615,32 +655,12 @@ globalThis.JC_LISTENING = [
           "Valencia",
           "Madrid"
         ],
-        "correct": 0
-      },
-      {
-        "q": [
-          "¿Cuánto costó el billete nuevo?",
-          "How much did the new ticket cost?"
-        ],
-        "answer": [
-          "24 euros.",
-          "€24."
-        ],
-        "evidence": [
-          "Compré un billete nuevo por veinticuatro euros"
-        ],
-        "skill": "price",
-        "hint": [
-          "Escucha la compra después de perder el primer tren.",
-          "Listen for the purchase after she misses the first train."
-        ],
-        "level": "access",
-        "options": [
-          "12 euros",
-          "24 euros",
-          "18 euros"
-        ],
-        "correct": 1
+        "correct": 0,
+        "optionsEn": [
+          "Zaragoza",
+          "Valencia",
+          "Madrid"
+        ]
       },
       {
         "q": [
@@ -702,6 +722,36 @@ globalThis.JC_LISTENING = [
       },
       {
         "q": [
+          "¿Cuánto costó el billete nuevo?",
+          "How much did the new ticket cost?"
+        ],
+        "answer": [
+          "24 euros.",
+          "€24."
+        ],
+        "evidence": [
+          "Compré un billete nuevo por veinticuatro euros"
+        ],
+        "skill": "price",
+        "hint": [
+          "Escucha la compra después de perder el primer tren.",
+          "Listen for the purchase after she misses the first train."
+        ],
+        "level": "access",
+        "options": [
+          "12 euros",
+          "24 euros",
+          "18 euros"
+        ],
+        "correct": 1,
+        "optionsEn": [
+          "12 euros",
+          "24 euros",
+          "18 euros"
+        ]
+      },
+      {
+        "q": [
           "¿Qué va a cambiar en su próximo viaje?",
           "What will she do differently on her next trip?"
         ],
@@ -760,32 +810,12 @@ globalThis.JC_LISTENING = [
           "Con su madre",
           "Con su hermano"
         ],
-        "correct": 2
-      },
-      {
-        "q": [
-          "¿Cuánto han gastado en total?",
-          "How much have they spent in total?"
-        ],
-        "answer": [
-          "18 euros.",
-          "€18."
-        ],
-        "evidence": [
-          "En total, dieciocho euros"
-        ],
-        "skill": "price",
-        "hint": [
-          "Busca el total, no el precio de un plato.",
-          "Listen for the total, not an individual dish."
-        ],
-        "level": "access",
-        "options": [
-          "18 euros",
-          "6 euros",
-          "8 euros"
-        ],
-        "correct": 0
+        "correct": 2,
+        "optionsEn": [
+          "With her cousin",
+          "With her mother",
+          "With her brother"
+        ]
       },
       {
         "q": [
@@ -824,6 +854,36 @@ globalThis.JC_LISTENING = [
           "Match each dish to the correct person."
         ],
         "level": "middle"
+      },
+      {
+        "q": [
+          "¿Cuánto han gastado en total?",
+          "How much have they spent in total?"
+        ],
+        "answer": [
+          "18 euros.",
+          "€18."
+        ],
+        "evidence": [
+          "En total, dieciocho euros"
+        ],
+        "skill": "price",
+        "hint": [
+          "Busca el total, no el precio de un plato.",
+          "Listen for the total, not an individual dish."
+        ],
+        "level": "access",
+        "options": [
+          "18 euros",
+          "6 euros",
+          "8 euros"
+        ],
+        "correct": 0,
+        "optionsEn": [
+          "18 euros",
+          "6 euros",
+          "8 euros"
+        ]
       },
       {
         "q": [
@@ -904,7 +964,31 @@ globalThis.JC_LISTENING = [
           "18 años",
           "16 años"
         ],
-        "correct": 1
+        "correct": 1,
+        "optionsEn": [
+          "14 years old",
+          "18 years old",
+          "16 years old"
+        ]
+      },
+      {
+        "q": [
+          "¿A qué edad empezó a hacer fotos y quién le regaló la cámara?",
+          "How old was she when she started taking photos, and who gave her the camera?"
+        ],
+        "answer": [
+          "A los 14 años; su abuelo.",
+          "At 14; her grandfather."
+        ],
+        "evidence": [
+          "Empecé a los catorce, cuando mi abuelo me regaló su cámara"
+        ],
+        "skill": "past",
+        "hint": [
+          "Son dos datos del mismo recuerdo.",
+          "Both details belong to the same memory."
+        ],
+        "level": "middle"
       },
       {
         "q": [
@@ -929,26 +1013,12 @@ globalThis.JC_LISTENING = [
           "Edificios",
           "Animales"
         ],
-        "correct": 2
-      },
-      {
-        "q": [
-          "¿A qué edad empezó a hacer fotos y quién le regaló la cámara?",
-          "How old was she when she started taking photos, and who gave her the camera?"
-        ],
-        "answer": [
-          "A los 14 años; su abuelo.",
-          "At 14; her grandfather."
-        ],
-        "evidence": [
-          "Empecé a los catorce, cuando mi abuelo me regaló su cámara"
-        ],
-        "skill": "past",
-        "hint": [
-          "Son dos datos del mismo recuerdo.",
-          "Both details belong to the same memory."
-        ],
-        "level": "middle"
+        "correct": 2,
+        "optionsEn": [
+          "People",
+          "Buildings",
+          "Animals"
+        ]
       },
       {
         "q": [
@@ -1048,7 +1118,12 @@ globalThis.JC_LISTENING = [
           "14 estudiantes",
           "30 estudiantes"
         ],
-        "correct": 0
+        "correct": 0,
+        "optionsEn": [
+          "40 students",
+          "14 students",
+          "30 students"
+        ]
       },
       {
         "q": [
@@ -1073,7 +1148,12 @@ globalThis.JC_LISTENING = [
           "Botellas de plástico",
           "Botellas de vidrio"
         ],
-        "correct": 1
+        "correct": 1,
+        "optionsEn": [
+          "Metal cans",
+          "Plastic bottles",
+          "Glass bottles"
+        ]
       },
       {
         "q": [
@@ -1192,7 +1272,12 @@ globalThis.JC_LISTENING = [
           "12 años",
           "18 años"
         ],
-        "correct": 2
+        "correct": 2,
+        "optionsEn": [
+          "16 years old",
+          "12 years old",
+          "18 years old"
+        ]
       },
       {
         "q": [
@@ -1217,7 +1302,12 @@ globalThis.JC_LISTENING = [
           "En un restaurante",
           "En el instituto"
         ],
-        "correct": 0
+        "correct": 0,
+        "optionsEn": [
+          "At her grandparents' house",
+          "In a restaurant",
+          "At school"
+        ]
       },
       {
         "q": [
@@ -1336,7 +1426,12 @@ globalThis.JC_LISTENING = [
           "Dos",
           "Cuatro"
         ],
-        "correct": 1
+        "correct": 1,
+        "optionsEn": [
+          "Three",
+          "Two",
+          "Four"
+        ]
       },
       {
         "q": [
@@ -1361,7 +1456,12 @@ globalThis.JC_LISTENING = [
           "A las 18:00",
           "A las 8:00"
         ],
-        "correct": 2
+        "correct": 2,
+        "optionsEn": [
+          "At 9:00",
+          "At 18:00",
+          "At 8:00"
+        ]
       },
       {
         "q": [
@@ -1480,32 +1580,12 @@ globalThis.JC_LISTENING = [
           "16 grados",
           "17 grados"
         ],
-        "correct": 0
-      },
-      {
-        "q": [
-          "¿A qué día se ha trasladado la carrera?",
-          "To which day has the race been moved?"
-        ],
-        "answer": [
-          "Al domingo.",
-          "Sunday."
-        ],
-        "evidence": [
-          "se ha trasladado al domingo"
-        ],
-        "skill": "date",
-        "hint": [
-          "El viernes era la fecha inicial.",
-          "Friday was the original date."
-        ],
-        "level": "access",
-        "options": [
-          "Al viernes",
-          "Al domingo",
-          "Al sábado"
-        ],
-        "correct": 1
+        "correct": 0,
+        "optionsEn": [
+          "11 degrees",
+          "16 degrees",
+          "17 degrees"
+        ]
       },
       {
         "q": [
@@ -1544,6 +1624,36 @@ globalThis.JC_LISTENING = [
           "Give the two specific precautions."
         ],
         "level": "middle"
+      },
+      {
+        "q": [
+          "¿A qué día se ha trasladado la carrera?",
+          "To which day has the race been moved?"
+        ],
+        "answer": [
+          "Al domingo.",
+          "Sunday."
+        ],
+        "evidence": [
+          "se ha trasladado al domingo"
+        ],
+        "skill": "date",
+        "hint": [
+          "El viernes era la fecha inicial.",
+          "Friday was the original date."
+        ],
+        "level": "access",
+        "options": [
+          "Al viernes",
+          "Al domingo",
+          "Al sábado"
+        ],
+        "correct": 1,
+        "optionsEn": [
+          "Friday",
+          "Sunday",
+          "Saturday"
+        ]
       },
       {
         "q": [
@@ -1603,6 +1713,25 @@ globalThis.JC_LISTENING = [
     "questions": [
       {
         "q": [
+          "¿Por qué ya no puede llevarlos su hermano?",
+          "Why can his brother no longer drive them?"
+        ],
+        "answer": [
+          "Se hizo daño en una pierna jugando al fútbol y debe descansar.",
+          "He injured his leg playing football and has to rest."
+        ],
+        "evidence": [
+          "ayer se hizo daño en una pierna jugando al fútbol y el médico le ha dicho que debe descansar"
+        ],
+        "skill": "reason",
+        "hint": [
+          "Relaciona la lesión con la indicación médica.",
+          "Link the injury to the medical advice."
+        ],
+        "level": "middle"
+      },
+      {
+        "q": [
           "¿Qué transporte propone Marcos ahora?",
           "What transport does Marcos now suggest?"
         ],
@@ -1624,7 +1753,12 @@ globalThis.JC_LISTENING = [
           "El coche",
           "El autobús"
         ],
-        "correct": 2
+        "correct": 2,
+        "optionsEn": [
+          "The train",
+          "The car",
+          "The bus"
+        ]
       },
       {
         "q": [
@@ -1649,26 +1783,12 @@ globalThis.JC_LISTENING = [
           "24 euros",
           "18 euros"
         ],
-        "correct": 0
-      },
-      {
-        "q": [
-          "¿Por qué ya no puede llevarlos su hermano?",
-          "Why can his brother no longer drive them?"
-        ],
-        "answer": [
-          "Se hizo daño en una pierna jugando al fútbol y debe descansar.",
-          "He injured his leg playing football and has to rest."
-        ],
-        "evidence": [
-          "ayer se hizo daño en una pierna jugando al fútbol y el médico le ha dicho que debe descansar"
-        ],
-        "skill": "reason",
-        "hint": [
-          "Relaciona la lesión con la indicación médica.",
-          "Link the injury to the medical advice."
-        ],
-        "level": "middle"
+        "correct": 0,
+        "optionsEn": [
+          "12 euros",
+          "24 euros",
+          "18 euros"
+        ]
       },
       {
         "q": [
@@ -1769,32 +1889,12 @@ globalThis.JC_LISTENING = [
           "El próximo sábado",
           "El domingo"
         ],
-        "correct": 1
-      },
-      {
-        "q": [
-          "¿Cuánto cuesta la entrada general?",
-          "How much is general admission?"
-        ],
-        "answer": [
-          "6 euros.",
-          "€6."
-        ],
-        "evidence": [
-          "La entrada general cuesta seis euros"
-        ],
-        "skill": "price",
-        "hint": [
-          "Después se anuncia una excepción por edad.",
-          "An age exception follows."
-        ],
-        "level": "access",
-        "options": [
-          "16 euros",
-          "3 euros",
-          "6 euros"
-        ],
-        "correct": 2
+        "correct": 1,
+        "optionsEn": [
+          "Thursday",
+          "Next Saturday",
+          "Sunday"
+        ]
       },
       {
         "q": [
@@ -1833,6 +1933,36 @@ globalThis.JC_LISTENING = [
           "Give the dishes, not ingredients that are not mentioned."
         ],
         "level": "middle"
+      },
+      {
+        "q": [
+          "¿Cuánto cuesta la entrada general?",
+          "How much is general admission?"
+        ],
+        "answer": [
+          "6 euros.",
+          "€6."
+        ],
+        "evidence": [
+          "La entrada general cuesta seis euros"
+        ],
+        "skill": "price",
+        "hint": [
+          "Después se anuncia una excepción por edad.",
+          "An age exception follows."
+        ],
+        "level": "access",
+        "options": [
+          "16 euros",
+          "3 euros",
+          "6 euros"
+        ],
+        "correct": 2,
+        "optionsEn": [
+          "16 euros",
+          "3 euros",
+          "6 euros"
+        ]
       },
       {
         "q": [
@@ -1914,7 +2044,31 @@ globalThis.JC_LISTENING = [
           "Veterinaria",
           "Derecho"
         ],
-        "correct": 0
+        "correct": 0,
+        "optionsEn": [
+          "Computer science",
+          "Veterinary medicine",
+          "Law"
+        ]
+      },
+      {
+        "q": [
+          "¿Qué dos problemas tenía en su antiguo trabajo?",
+          "What two problems did she have in her old job?"
+        ],
+        "answer": [
+          "Pasaba muchas horas ante el ordenador y apenas tenía tiempo libre.",
+          "Long hours in front of a computer and hardly any free time."
+        ],
+        "evidence": [
+          "pasaba muchas horas delante del ordenador y apenas tenía tiempo libre"
+        ],
+        "skill": "reason",
+        "hint": [
+          "El sueldo no era el problema señalado.",
+          "Pay was not the problem mentioned."
+        ],
+        "level": "middle"
       },
       {
         "q": [
@@ -1939,26 +2093,12 @@ globalThis.JC_LISTENING = [
           "En una clínica",
           "En un jardín botánico"
         ],
-        "correct": 2
-      },
-      {
-        "q": [
-          "¿Qué dos problemas tenía en su antiguo trabajo?",
-          "What two problems did she have in her old job?"
-        ],
-        "answer": [
-          "Pasaba muchas horas ante el ordenador y apenas tenía tiempo libre.",
-          "Long hours in front of a computer and hardly any free time."
-        ],
-        "evidence": [
-          "pasaba muchas horas delante del ordenador y apenas tenía tiempo libre"
-        ],
-        "skill": "reason",
-        "hint": [
-          "El sueldo no era el problema señalado.",
-          "Pay was not the problem mentioned."
-        ],
-        "level": "middle"
+        "correct": 2,
+        "optionsEn": [
+          "At a technology company",
+          "At a clinic",
+          "At a botanical garden"
+        ]
       },
       {
         "q": [
@@ -2058,32 +2198,12 @@ globalThis.JC_LISTENING = [
           "En el parque de Huelin, Málaga",
           "En el Albaicín, Granada"
         ],
-        "correct": 1
-      },
-      {
-        "q": [
-          "¿Cuánto pagan los estudiantes por las proyecciones?",
-          "How much do students pay for screenings?"
-        ],
-        "answer": [
-          "3 euros.",
-          "€3."
-        ],
-        "evidence": [
-          "tres para los estudiantes"
-        ],
-        "skill": "price",
-        "hint": [
-          "No uses la tarifa de adultos.",
-          "Do not use the adult price."
-        ],
-        "level": "access",
-        "options": [
-          "5 euros",
-          "6 euros",
-          "3 euros"
-        ],
-        "correct": 2
+        "correct": 1,
+        "optionsEn": [
+          "Retiro Park, Madrid",
+          "Huelin Park, Málaga",
+          "The Albaicín, Granada"
+        ]
       },
       {
         "q": [
@@ -2122,6 +2242,36 @@ globalThis.JC_LISTENING = [
           "Moving forward half an hour means starting earlier."
         ],
         "level": "middle"
+      },
+      {
+        "q": [
+          "¿Cuánto pagan los estudiantes por las proyecciones?",
+          "How much do students pay for screenings?"
+        ],
+        "answer": [
+          "3 euros.",
+          "€3."
+        ],
+        "evidence": [
+          "tres para los estudiantes"
+        ],
+        "skill": "price",
+        "hint": [
+          "No uses la tarifa de adultos.",
+          "Do not use the adult price."
+        ],
+        "level": "access",
+        "options": [
+          "5 euros",
+          "6 euros",
+          "3 euros"
+        ],
+        "correct": 2,
+        "optionsEn": [
+          "5 euros",
+          "6 euros",
+          "3 euros"
+        ]
       },
       {
         "q": [
@@ -2181,6 +2331,25 @@ globalThis.JC_LISTENING = [
     "questions": [
       {
         "q": [
+          "¿Por qué no la contrataron en la tienda de ropa?",
+          "Why did the clothes shop not hire her?"
+        ],
+        "answer": [
+          "Buscaban a alguien con experiencia.",
+          "They wanted someone with experience."
+        ],
+        "evidence": [
+          "no me contrataron porque buscaban a alguien con experiencia"
+        ],
+        "skill": "reason",
+        "hint": [
+          "Escucha la razón de la negativa.",
+          "Listen for the reason for the rejection."
+        ],
+        "level": "middle"
+      },
+      {
+        "q": [
           "¿Qué puesto le han ofrecido a Irene?",
           "What job has Irene been offered?"
         ],
@@ -2202,7 +2371,12 @@ globalThis.JC_LISTENING = [
           "En una tienda de ropa",
           "En una cafetería"
         ],
-        "correct": 0
+        "correct": 0,
+        "optionsEn": [
+          "Hotel reception",
+          "A clothes shop",
+          "A café"
+        ]
       },
       {
         "q": [
@@ -2227,26 +2401,12 @@ globalThis.JC_LISTENING = [
           "780 euros",
           "700 euros"
         ],
-        "correct": 1
-      },
-      {
-        "q": [
-          "¿Por qué no la contrataron en la tienda de ropa?",
-          "Why did the clothes shop not hire her?"
-        ],
-        "answer": [
-          "Buscaban a alguien con experiencia.",
-          "They wanted someone with experience."
-        ],
-        "evidence": [
-          "no me contrataron porque buscaban a alguien con experiencia"
-        ],
-        "skill": "reason",
-        "hint": [
-          "Escucha la razón de la negativa.",
-          "Listen for the reason for the rejection."
-        ],
-        "level": "middle"
+        "correct": 1,
+        "optionsEn": [
+          "870 euros",
+          "780 euros",
+          "700 euros"
+        ]
       },
       {
         "q": [
@@ -2310,5 +2470,3 @@ globalThis.JC_LISTENING = [
     "selection": "work07-proposal"
   }
 ];
-
-JC_DATA.listening = JC_LISTENING;
