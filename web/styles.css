@@ -9,3 +9,17 @@
 [data-listening] fieldset{min-width:0}[data-listening] legend{max-width:100%;line-height:1.6}
 [data-listening] textarea{width:100%;box-sizing:border-box}[data-listening] textarea[readonly]{background:var(--paper,#fffaf1)}
 [data-listening] [role=alert]{color:#9b2c1d;font-weight:700;outline-offset:4px}
+
+/* Work 08: scoped reading document layout, scalable local illustrations. */
+.reading-document p { white-space:pre-line; overflow-wrap:anywhere; }
+.reading-questions { min-width:0; }
+.reading-questions fieldset { min-width:0; padding-inline:0; border-inline:0; }
+.reading-questions legend { max-width:100%; }
+.reading-questions textarea { min-height:6rem; width:100%; box-sizing:border-box; }
+.reading-questions select { max-width:100%; width:100%; min-height:44px; white-space:normal; }
+.reading-rubric { margin-block:1rem; }
+.reading-pictures { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:1rem; }
+.reading-pictures figure { margin:0; padding:.5rem; border:1px solid currentColor; border-radius:.6rem; }
+.reading-pictures svg { width:100%; height:auto; display:block; }
+.picture-num { font-weight:700; }
+@media(max-width:760px) { .reading-layout { grid-template-columns:minmax(0,1fr); } .reading-document { position:static; } }
