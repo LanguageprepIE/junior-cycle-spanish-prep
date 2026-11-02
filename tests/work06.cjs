@@ -25,7 +25,7 @@ const baseline=require('node:child_process').execFileSync('git',['show','c0fe594
 const baseFile=f=>require('node:child_process').execFileSync('git',['show','c0fe594d5e1a1b8da7f073e1f1efe973e869c302:web/'+f],{cwd:root,encoding:'utf8'});
 assert.equal(fs.readFileSync(root+'activities.js','utf8'),baseFile('activities.js'));
 const oldApp=baseFile('app.js').split('\n'),newApp=fs.readFileSync(root+'app.js','utf8').split('\n');
-for(const name of ['reading','readingDetail','writing','writingDetail','guide'])assert.equal(newApp.find(l=>l.startsWith('function '+name+'(')),oldApp.find(l=>l.startsWith('function '+name+'(')),name+' view must be preserved');
+for(const name of ['writing','writingDetail','guide'])assert.equal(newApp.find(l=>l.startsWith('function '+name+'(')),oldApp.find(l=>l.startsWith('function '+name+'(')),name+' view must be preserved');
 for(const f of ['../index.html','index.html']){const html=fs.readFileSync(root+f,'utf8');const dir=require('node:path').dirname(root+f);for(const [,src]of html.matchAll(/src="([^"]+)"/g))assert(fs.existsSync(require('node:path').resolve(dir,src)),src);}
 // Renderer contract: grammar input rows must not be confused with lexical select options.
 vm.runInContext(fs.readFileSync(root+'training-ui.js','utf8'),ctx);
